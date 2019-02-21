@@ -5,7 +5,7 @@ This is our implementation for the paper:
 
 
 *Chong Chen, Min Zhang, Yiqun Liu, and Shaoping Ma. 2019. [Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf) 
-In WWW'18.*
+In WSDM'19.*
 
 **Please cite our WSDM'19 paper if you use our codes. Thanks!**
 
